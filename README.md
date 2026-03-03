@@ -52,7 +52,7 @@ bank-100-bill-analysis/
 │   ├── raw/          # raw dataset (sample)  
 │   └── processed/    # cleaned and aggregated data  
 ├── notebooks/        # Jupyter notebooks  
-├── sql/              # SQL scripts  
+├── scripts/              # Python and SQL scripts
 ├── dashboard/        # Screenshots  
 ├── images/           # Architecture diagram, charts  
 ├── .gitignore  
